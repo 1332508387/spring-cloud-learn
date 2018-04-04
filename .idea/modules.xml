@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server-git/cloud-config-server-git.iml" filepath="$PROJECT_DIR$/cloud-config-server-git/cloud-config-server-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" filepath="$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-consumer/cloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/cloud-eureka-consumer/cloud-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-consumer-hystrix/cloud-eureka-consumer-hystrix.iml" filepath="$PROJECT_DIR$/cloud-eureka-consumer-hystrix/cloud-eureka-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-consumer-hystrix-dashboard/cloud-eureka-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-eureka-consumer-hystrix-dashboard/cloud-eureka-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-learn.iml" filepath="$PROJECT_DIR$/spring-cloud-learn.iml" />
+    </modules>
+  </component>
+</project>
