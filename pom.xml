@@ -16,6 +16,7 @@
         <module>cloud-config-client</module>
         <module>cloud-eureka-consumer-hystrix</module>
         <module>cloud-hystrix-dashboard</module>
+        <module>cloud-eureka-consumer-hystrix-dashboard</module>
     </modules>
 
 

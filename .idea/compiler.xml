@@ -2,31 +2,31 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-api-gateway" />
         <module name="cloud-config-client" />
         <module name="cloud-config-server-git" />
         <module name="cloud-eureka-client" />
         <module name="cloud-eureka-consumer" />
         <module name="cloud-eureka-consumer-hystrix" />
+        <module name="cloud-eureka-consumer-hystrix-dashboard" />
         <module name="cloud-eureka-learn" />
-        <module name="cloud-hystrix-dashboard" />
-      </profile>
-      <profile name="Annotation profile for spring-cloud-learn" enabled="true">
-        <sourceOutputDir name="../cloud-eureka-learn/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../cloud-eureka-learn/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="cloud-eureka-server" />
+        <module name="cloud-hystrix-dashboard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-api-gateway" target="1.8" />
       <module name="cloud-config-client" target="1.8" />
       <module name="cloud-config-server-git" target="1.8" />
       <module name="cloud-eureka-client" target="1.8" />
       <module name="cloud-eureka-consumer" target="1.8" />
       <module name="cloud-eureka-consumer-hystrix" target="1.8" />
+      <module name="cloud-eureka-consumer-hystrix-dashboard" target="1.8" />
       <module name="cloud-eureka-learn" target="1.8" />
       <module name="cloud-eureka-server" target="1.8" />
       <module name="cloud-hystrix-dashboard" target="1.8" />
